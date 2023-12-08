@@ -16,8 +16,7 @@ This code snippet will unarchive an existing person within TOPdesk and executes 
 ```json
 {
     "id": "634206ca-6907-4914-8509-da55cfd8b35d",
-    "displayName": "Doe, John van der",
-    "archivingReasonId" : "73736b19-a69e-5e6b-b6af-ddc655fead0c"
+    "displayName": "Doe, John van der"
 }
 ```
 
